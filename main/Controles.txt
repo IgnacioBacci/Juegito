@@ -1,0 +1,5 @@
+WASD-Movimiento
+Espacio-Habilidad
+E-Habilitar/Deshabilitar primaria
+Q-Habilitar/Deshabilitar secundaria
+P-Puto
